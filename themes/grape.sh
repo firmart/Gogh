@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#9f9fa1"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Grape"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

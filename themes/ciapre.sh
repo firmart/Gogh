@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#aea47a"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Ciapre"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#68525a"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Crayon Pony Fish"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

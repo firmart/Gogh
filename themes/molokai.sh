@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#BBBBBB"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Molokai"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

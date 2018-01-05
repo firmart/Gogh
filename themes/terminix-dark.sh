@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#868A8C"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Terminix Dark"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

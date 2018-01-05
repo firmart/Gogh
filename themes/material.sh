@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#C3C7D1"
 CURSOR_COLOR="#657B83"
 PROFILE_NAME="Material"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

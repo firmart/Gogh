@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#35b1d2"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Slate"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#2A2B32"
 CURSOR_COLOR="#2A2B32"
 PROFILE_NAME="One Light"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

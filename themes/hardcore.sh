@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#a0a0a0"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Hardcore"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

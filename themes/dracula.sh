@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#94A3A5"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Dracula"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

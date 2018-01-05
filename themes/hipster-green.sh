@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#84c138"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Hipster Green"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

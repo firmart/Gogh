@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#ffffd4"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Twilight"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

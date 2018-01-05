@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#ecf0c1"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Spacedust"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

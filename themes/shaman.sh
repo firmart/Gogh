@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#405555"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Shaman"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

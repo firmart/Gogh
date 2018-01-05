@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#ffcc2f"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Jackie Brown"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

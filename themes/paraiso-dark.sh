@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#a39e9b"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Paraiso Dark"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

@@ -32,4 +32,4 @@ PROFILE_NAME="_base"
 
 
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

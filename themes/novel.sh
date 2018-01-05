@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#3b2322"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Novel"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

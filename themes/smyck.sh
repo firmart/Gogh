@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#F7F7F7"  # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Smyck"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#bdbaae"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="SpaceGray Eighties"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

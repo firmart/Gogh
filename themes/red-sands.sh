@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#d7c9a7"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Red Sands"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#000000"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Terminal Basic"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

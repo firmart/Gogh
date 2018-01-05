@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#a9bed8"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Bim"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

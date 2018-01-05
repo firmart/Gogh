@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#d6dbe5"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Brogrammer"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

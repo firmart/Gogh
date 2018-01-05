@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#f8dcc0"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Adventure Time"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

@@ -24,4 +24,4 @@ FOREGROUND_COLOR="$COLOR_16"
 CURSOR_COLOR="#97979B"
 PROFILE_NAME="Snazzy"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#adadad"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Frontend Delight"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#ffcb83"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="IC Orange PPL"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#e6e1dc"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Broadcast"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#d9e6f2"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Azu"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

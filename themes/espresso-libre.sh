@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#b8a898"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Espresso Libre"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#C5C8C6"
 CURSOR_COLOR="#C4C8C5"
 PROFILE_NAME="Tomorrow Night"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#9cc2c3"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Solarized Dark Higher Contrast"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

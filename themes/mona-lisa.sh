@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#f7d66a"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Mona Lisa"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

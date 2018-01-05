@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#94a3a5"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Hybrid"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

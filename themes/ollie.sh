@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#8a8dae"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Ollie"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

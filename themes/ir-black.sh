@@ -32,4 +32,4 @@ PROFILE_NAME="Ir Black"
 
 
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

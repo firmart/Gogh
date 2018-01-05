@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#b9bcba"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Dimmed Monokai"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

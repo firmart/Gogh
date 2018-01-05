@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#979CAC"
 CURSOR_COLOR="#979CAC"
 PROFILE_NAME="Ocean Dark"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

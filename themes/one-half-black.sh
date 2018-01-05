@@ -34,4 +34,4 @@ PROFILE_NAME="One Half Black"
 
 
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

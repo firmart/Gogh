@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#afc2c2"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Liquid Carbon"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

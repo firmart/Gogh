@@ -33,4 +33,4 @@ PROFILE_NAME="Foxnightly"
 # Bold color: Same as text color (as you wish — checked/unchecked)
 
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

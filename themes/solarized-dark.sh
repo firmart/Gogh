@@ -25,4 +25,4 @@ BOLD_COLOR="#93A1A1"         # Bold
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Solarized Dark"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#afdab6"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Warm Neon"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

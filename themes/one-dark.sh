@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#5C6370"
 CURSOR_COLOR="#5C6370"
 PROFILE_NAME="One Dark"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

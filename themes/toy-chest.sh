@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#31d07b"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Toy Chest"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

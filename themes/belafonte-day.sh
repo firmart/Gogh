@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#45373c"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Belafonte Day"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

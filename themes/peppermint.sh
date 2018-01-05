@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#C7C7C7"
 CURSOR_COLOR="#BBBBBB"
 PROFILE_NAME="Peppermint"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

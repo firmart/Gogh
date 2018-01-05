@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#deb88d"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Sea Shells"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

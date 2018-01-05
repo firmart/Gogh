@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#444444"
 CURSOR_COLOR="#FF0054"
 PROFILE_NAME="Hemisu Light"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

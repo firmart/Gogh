@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#b4e1fd"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Aco"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

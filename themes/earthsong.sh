@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#e5c7a9"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Earthsong"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

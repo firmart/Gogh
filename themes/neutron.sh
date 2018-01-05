@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#e6e8ef"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Neutron"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

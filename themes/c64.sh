@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#7869c4"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="C64"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

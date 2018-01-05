@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#4a4543"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="3024 Day"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

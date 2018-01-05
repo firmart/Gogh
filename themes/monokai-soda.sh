@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#c4c5b5"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Monokai Soda"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

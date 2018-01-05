@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#bbbbbb"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Mathias"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

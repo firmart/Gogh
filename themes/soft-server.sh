@@ -24,4 +24,4 @@ FOREGROUND_COLOR="#99a3a2"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Soft Server"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh

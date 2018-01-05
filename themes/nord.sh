@@ -24,4 +24,4 @@ FOREGROUND_COLOR=$COLOR_05
 CURSOR_COLOR=$COLOR_05
 PROFILE_NAME="Nord"
 # Apply Colors
-source ../_apply_colors.sh
+source _apply_colors.sh
